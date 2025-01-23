@@ -3,7 +3,6 @@
 
 ## Find the Intention of Instruction: Comprehensive Evaluation of Instruction Understanding for Large Language Models
 
----
 
 This repository contains the official code for the [Find the Intention of Instruction: Comprehensive Evaluation of Instruction Understanding for Large Language Models](https://arxiv.org/abs/2412.19450) paper, accepted to the **NAACL25-Findings**.
 
@@ -39,7 +38,6 @@ Official data of ***"IoInst"*** is located in the  ```./Data/ioinst.jsonl```
 }
 ```
 
----
 
 ## [ Running ]
 
